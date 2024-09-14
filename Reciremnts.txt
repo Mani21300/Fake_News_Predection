@@ -1,0 +1,17 @@
+# Core libraries for data manipulation and numerical operations
+pandas==2.2.2
+numpy==1.26.4
+
+# Data visualization (for exploratory data analysis)
+matplotlib==3.7.1
+seaborn==0.13.1
+
+# Machine learning libraries
+scikit-learn==1.3.2
+
+
+# Natural Language Processing (NLP)
+nltk==3.8.1
+
+# For deployment
+streamlit==1.38.0
